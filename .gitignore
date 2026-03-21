@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .vscode/
+=======
+__pycache__/
+.venv/
+venv/
+env/
+>>>>>>> 9f377ff3435d084787373582c51cdd632214f3e1
